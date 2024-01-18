@@ -1,0 +1,11 @@
+com\snh\ipldashboardservice\IplDashboardServiceApplication.class
+com\snh\ipldashboardservice\model\Match.class
+com\snh\ipldashboardservice\model\Team.class
+com\snh\ipldashboardservice\repository\TeamRepository.class
+com\snh\ipldashboardservice\data\JobCompletionNotificationListener.class
+com\snh\ipldashboardservice\data\BatchConfig$1.class
+com\snh\ipldashboardservice\data\MatchInput.class
+com\snh\ipldashboardservice\repository\MatchRepository.class
+com\snh\ipldashboardservice\controller\DashboardController.class
+com\snh\ipldashboardservice\data\MatchDataProcessor.class
+com\snh\ipldashboardservice\data\BatchConfig.class
