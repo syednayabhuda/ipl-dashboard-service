@@ -2,6 +2,9 @@
 
 Welcome to the IPL Dashboard project! This application provides a user interface to explore Indian Premier League (IPL) cricket match data from 2008 to 2022.
 
+⚠️ **Best Viewed on Large Screens: This application is optimized for larger screens such as laptops or desktops. It may not provide an optimal user experience on mobile phones.**
+
+
 ## Technologies Used
 
 - Frontend: React with HashRouter for routing and SASS for styling.
