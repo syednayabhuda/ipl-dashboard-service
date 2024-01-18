@@ -1,0 +1,23 @@
+.MatchPage {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+
+    .match-page-header {
+        margin: 2vh auto;
+    }
+
+    .year-selector {
+        justify-self: end;
+        padding: 16%;
+    }
+
+    .no-matches {
+        margin-top: 10vh;
+        font-size: 6vh;
+        text-align: center;
+    }
+
+    .home-from-matchPage{
+        right: 100vw;
+    }
+}
