@@ -10,11 +10,11 @@ Welcome to the IPL Dashboard project! This application provides a user interface
 - Frontend: React with HashRouter for routing and SASS for styling.
 - Backend: Spring Boot with Java, utilizing Spring Batch for data processing.
 - Database: HSQLDB (HyperSQL), an in-memory database.
-- Deployment: The application is deployed on [to_be_inserted]. [View the deployed app here](#).
+- Deployment: The application is deployed using a free hosting service, Render. [View the deployed app here](https://ipl-dashboard-f7nz.onrender.com.).
 
 ## Dataset
 
-The dataset for each IPL match from 2008 to 2022 is obtained from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/vora1011/ipl-2008-to-2021-all-match-dataset?select=IPL_Matches_2008_2022.csv).
+The dataset for each IPL match from 2008 to 2022 is obtained from Kaggle. You can find the dataset here: [https://www.kaggle.com/datasets/vora1011/ipl-2008-to-2021-all-match-dataset?select=IPL_Matches_2008_2022.csv](https://www.kaggle.com/datasets/vora1011/ipl-2008-to-2021-all-match-dataset?select=IPL_Matches_2008_2022.csv).
 
 ## Disclaimer
 
@@ -30,7 +30,7 @@ This project is a personal endeavor, and the authenticity of the data cannot be 
 
 ## Deployed App
 
-The application is deployed on [to_be_inserted]. You can access it [here](#).
+The application is live. You can access it here: [https://ipl-dashboard-f7nz.onrender.com](https://ipl-dashboard-f7nz.onrender.com)
 
 ## Feedback and Contributions
 
